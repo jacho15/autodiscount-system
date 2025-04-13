@@ -1,0 +1,6 @@
+#environment variables
+.env
+
+#database stuff
+*.db
+*.sqlite3
