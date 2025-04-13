@@ -1,4 +1,4 @@
-#Soccer Jersey Auto-Discount System
+##Soccer Jersey Auto-Discount System
 
 This system automatically tracks soccer match results from various leagues and applies discounts to winning teams' jerseys in your WooCommerce store.
 
